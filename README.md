@@ -2,4 +2,4 @@
 
 Free Growtopia Linux / Android Proxy
 
-https://dsc.gg/anchproxy
+https://discord.gg/luckyproxy
